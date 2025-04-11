@@ -45,5 +45,6 @@ Ensure you have a database server installed:
    ```
    You will be prompted to enter the username (human) and password (password) for basic authentication. 🔒
 
+---
 
 Made by Indonesiancodeparty
