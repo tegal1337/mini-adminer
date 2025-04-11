@@ -44,3 +44,6 @@ Ensure you have a database server installed:
    http://localhost/mini_adminer.php
    ```
    You will be prompted to enter the username (human) and password (password) for basic authentication. 🔒
+
+
+Made by Indonesiancodeparty
