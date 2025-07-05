@@ -4,9 +4,9 @@
 // Mini Adminer with improvements
 
 $db_host = 'localhost';
-$db_username = 'your_db_username';
-$db_password = 'your_db_password';
-$db_name = 'your_db_name';
+$db_username = 'sql_selumakab_go';
+$db_password = 'ad47927d1aaae';
+$db_name = 'sql_selumakab_go';
 
 if (!isset($_SERVER['PHP_AUTH_USER']) || $_SERVER['PHP_AUTH_USER'] !== 'human' || $_SERVER['PHP_AUTH_PW'] !== 'password') {
     header('WWW-Authenticate: Basic realm="Mini Adminer"');
