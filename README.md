@@ -60,4 +60,4 @@ Because **v3** allows full read/write/drop SQL execution, make sure to:
 
 ---
 
-Made by **Indonesian Code Party**
+Made by **Indonesian Code Party** && **TegalSec.org**
